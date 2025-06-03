@@ -17,6 +17,8 @@ xppaut jtb-kk.ode
 Select Initalconds -> Go with the mouse. After a short time you  
 should get this graph
 
+![screenshot](./screenshot.jpg)
+
 which replicates figure 9 A from the paper.
 
 ---
